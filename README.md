@@ -17,4 +17,4 @@ Output
 
 ## License
 
-[![License 2.0](https://img.shields.io/badge/Apache-License-2)](https://www.apache.org/licenses/LICENSE-2.0)
+[![License 2.0](https://img.shields.io/badge/Apache-License 2)](https://www.apache.org/licenses/LICENSE-2.0)
