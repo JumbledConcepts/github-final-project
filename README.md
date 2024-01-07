@@ -1,4 +1,5 @@
 # Project Name: github-final-project
+![Static Badge](https://img.shields.io/badge/Final-Project-yellow)
 
 
 ## Description
